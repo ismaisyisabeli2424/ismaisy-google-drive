@@ -1,2 +1,12 @@
 # ismaisy-google-drive
 google drive
+<section class="container secundario">
+        <div class="container__descricao">
+            <p class="descricao__texto">
+                Só o Combo+ oferece Alura+ e Alura Língua juntos para você ter acesso a cursos de diversas áreas da
+                tecnologia e aprender inglês ou espanhol, onde e como quiser.
+            </p>
+            <a href="www.alura.com.br" class="container__botao secundario__botao" container>Assine o Combo+</a>
+        </div>
+        <img src="img/Telas.png" alt="Tela do alura+ e alura língua" class="secundario__imagem">
+    </section>https://www.google.com/support/accounts/bin/answer.py?answer=181692
